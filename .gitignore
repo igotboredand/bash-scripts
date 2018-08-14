@@ -1,0 +1,4 @@
+.htaccess
+*.crt
+*.ca
+*.key
