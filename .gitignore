@@ -2,3 +2,4 @@
 *.crt
 *.ca
 *.key
+*.conf
